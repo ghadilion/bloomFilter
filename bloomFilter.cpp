@@ -1,5 +1,3 @@
-//TODO: generate bitset dump file option
-
 #include <iostream>
 #include <cmath>
 #include <fstream>
