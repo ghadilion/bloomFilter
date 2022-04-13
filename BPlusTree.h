@@ -755,7 +755,6 @@ public:
         print(this->root);
     }
     void print(Node<T>* cursor) {
-        // You must NOT edit this function.
         if (cursor != NULL) {
             for (int i = 0; i < cursor->size; ++i) {
                 std::cout << cursor->item[i] << " ";
