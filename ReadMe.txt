@@ -1,0 +1,1 @@
+Main.cpp can be used to check the functionality of B+ Trees, while bloomFilter.cpp and hashTable.cpp are used for their respective data structures, filename dataset.txt has to passed as a command line argument for all programs
